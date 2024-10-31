@@ -1,5 +1,5 @@
 // Thêm sự kiện lắng nghe cho form
-document.getElementById("khao-sat-form").addEventListener("submit", function(event) {
+document.getElementById("ben10-formdemo").addEventListener("submit", function(event) {
     event.preventDefault(); // Ngăn chặn hành động mặc định (gửi form)
 
     // Gửi form đến Netlify
